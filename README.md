@@ -289,8 +289,8 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/kncarnevale/learn-git-milestones/commit/07ccc2ca6af781ce38b095d4d33c0fc9dd7c6449)|
 2e | 3rd Favorite emoji | 🐨 |
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/kncarnevale/learn-git-milestones/commit/5d922e5551f068523935999477f605bda86fb072)|
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+3a | Link to `my-awesome-project` github.com repo page |[my-awesome-project](https://github.com/kncarnevale/my-awesome-project)|
+4a | Link to `my-awesome-project` github.io "project site" |[github.io project site](https://kncarnevale.github.io/my-awesome-project/)|
 
 
 
